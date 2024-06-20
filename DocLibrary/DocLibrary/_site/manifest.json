@@ -1,0 +1,258 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/New folder/DocLibrary/DocLibrary",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.AutoCad.DataBaseUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.AutoCad.DataBaseUtils.html",
+          "hash": "VJxf0/ge7Y4cqclNEd4cWhGArBePmPVY7clzC3SWm7o="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.AutoCad.TransactionUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.AutoCad.TransactionUtils.html",
+          "hash": "bEE+uRW4MxA47kk7n9JffpDMABnbtqpnn+y29LeUB1U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.AutoCad.WindowUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.AutoCad.WindowUtils.html",
+          "hash": "3fwnDwDbvnqIO8kkDGN0+KBHxKiCC/PMuvNG6q9xaY0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.AutoCad.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.AutoCad.html",
+          "hash": "uQStU8QzUcGXYW23HkhIzqvZjWQK1ZXEXNkDKDTBQHk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Nw.DataBaseUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Nw.DataBaseUtils.html",
+          "hash": "6M3UVCCDszw6TwwtmGYwICO1nzdNjRvJpGmmfquWOFA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Nw.DataBaseUtilsPropertyNotUsedAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Nw.DataBaseUtilsPropertyNotUsedAttribute.html",
+          "hash": "CxYLFtLd/P8vnCaVDqyrm8PVxLMkfcVbaAHbyorDzz4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Nw.WindowUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Nw.WindowUtils.html",
+          "hash": "sX7rti/KpH9CYszADE3R0hpKOTDBgxshFt55uH163zA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Nw.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Nw.html",
+          "hash": "N/et6EXXjB3IflMDDS6rRveZXrRnLM9XXmNi0n/yV+Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Revit.ConvertUnits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Revit.ConvertUnits.html",
+          "hash": "MAG9iAMzRVrJqlpS0ZXPSLv/dlz9z+MHAaoeD9Q4Hf8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Revit.ExternalEventUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Revit.ExternalEventUtils.html",
+          "hash": "Ni4GfTSQHDe8WjEsEvRmUZ4UwrHDX1VeHDBnYcHna38="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Revit.TransactionStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Revit.TransactionStatus.html",
+          "hash": "s0woUFk2nWsDd0hLDqwGjbz4wRH124YNTmg3VeQOCKg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Revit.WindowUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Revit.WindowUtils.html",
+          "hash": "vp9ZZNfkAEYzuk3j7lhhZOOR6Te9H/dg7S6dKC59Dl0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/TTD.Revit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/TTD.Revit.html",
+          "hash": "BAGZr6Rgn83DTLDyZdRWXAuBRcmfxPTxRRSz27T8mk0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "OoOkyOt9NALvGVPg6t31Fjbzf2R+Hp3DBo9J4qKTS/c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "0z66RZmx2FcOlLOOpvhOFaqYIqLn5OXa50DCZ4ncXlY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "EjmoOB7jnBcNshNVvb5XiT7NM//wwy4M9ppd/7fALFE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "s+UecGKJLe11K3w4+MJjx6QoiqktkO8teeQG06lk8L0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 13,
+          "skipped_file_count": 13
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
