@@ -1,0 +1,739 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: TTD.AutoCad
+  name: TTD.AutoCad
+  href: api/TTD.AutoCad.html
+  commentId: N:TTD.AutoCad
+  fullName: TTD.AutoCad
+  nameWithType: TTD.AutoCad
+- uid: TTD.AutoCad.DataBaseUtils
+  name: DataBaseUtils
+  href: api/TTD.AutoCad.DataBaseUtils.html
+  commentId: T:TTD.AutoCad.DataBaseUtils
+  fullName: TTD.AutoCad.DataBaseUtils
+  nameWithType: DataBaseUtils
+- uid: TTD.AutoCad.DataBaseUtils.Read*
+  name: Read
+  href: api/TTD.AutoCad.DataBaseUtils.html#TTD_AutoCad_DataBaseUtils_Read_
+  commentId: Overload:TTD.AutoCad.DataBaseUtils.Read
+  isSpec: "True"
+  fullName: TTD.AutoCad.DataBaseUtils.Read
+  nameWithType: DataBaseUtils.Read
+- uid: TTD.AutoCad.DataBaseUtils.Read``1
+  name: Read<T>()
+  href: api/TTD.AutoCad.DataBaseUtils.html#TTD_AutoCad_DataBaseUtils_Read__1
+  commentId: M:TTD.AutoCad.DataBaseUtils.Read``1
+  name.vb: Read(Of T)()
+  fullName: TTD.AutoCad.DataBaseUtils.Read<T>()
+  fullName.vb: TTD.AutoCad.DataBaseUtils.Read(Of T)()
+  nameWithType: DataBaseUtils.Read<T>()
+  nameWithType.vb: DataBaseUtils.Read(Of T)()
+- uid: TTD.AutoCad.DataBaseUtils.ReadDataByKey(System.String)
+  name: ReadDataByKey(String)
+  href: api/TTD.AutoCad.DataBaseUtils.html#TTD_AutoCad_DataBaseUtils_ReadDataByKey_System_String_
+  commentId: M:TTD.AutoCad.DataBaseUtils.ReadDataByKey(System.String)
+  fullName: TTD.AutoCad.DataBaseUtils.ReadDataByKey(System.String)
+  nameWithType: DataBaseUtils.ReadDataByKey(String)
+- uid: TTD.AutoCad.DataBaseUtils.ReadDataByKey*
+  name: ReadDataByKey
+  href: api/TTD.AutoCad.DataBaseUtils.html#TTD_AutoCad_DataBaseUtils_ReadDataByKey_
+  commentId: Overload:TTD.AutoCad.DataBaseUtils.ReadDataByKey
+  isSpec: "True"
+  fullName: TTD.AutoCad.DataBaseUtils.ReadDataByKey
+  nameWithType: DataBaseUtils.ReadDataByKey
+- uid: TTD.AutoCad.DataBaseUtils.Save*
+  name: Save
+  href: api/TTD.AutoCad.DataBaseUtils.html#TTD_AutoCad_DataBaseUtils_Save_
+  commentId: Overload:TTD.AutoCad.DataBaseUtils.Save
+  isSpec: "True"
+  fullName: TTD.AutoCad.DataBaseUtils.Save
+  nameWithType: DataBaseUtils.Save
+- uid: TTD.AutoCad.DataBaseUtils.Save``1(System.Collections.Generic.List{``0})
+  name: Save<T>(List<T>)
+  href: api/TTD.AutoCad.DataBaseUtils.html#TTD_AutoCad_DataBaseUtils_Save__1_System_Collections_Generic_List___0__
+  commentId: M:TTD.AutoCad.DataBaseUtils.Save``1(System.Collections.Generic.List{``0})
+  name.vb: Save(Of T)(List(Of T))
+  fullName: TTD.AutoCad.DataBaseUtils.Save<T>(System.Collections.Generic.List<T>)
+  fullName.vb: TTD.AutoCad.DataBaseUtils.Save(Of T)(System.Collections.Generic.List(Of T))
+  nameWithType: DataBaseUtils.Save<T>(List<T>)
+  nameWithType.vb: DataBaseUtils.Save(Of T)(List(Of T))
+- uid: TTD.AutoCad.DataBaseUtils.SaveDictionary(System.String,System.String)
+  name: SaveDictionary(String, String)
+  href: api/TTD.AutoCad.DataBaseUtils.html#TTD_AutoCad_DataBaseUtils_SaveDictionary_System_String_System_String_
+  commentId: M:TTD.AutoCad.DataBaseUtils.SaveDictionary(System.String,System.String)
+  fullName: TTD.AutoCad.DataBaseUtils.SaveDictionary(System.String, System.String)
+  nameWithType: DataBaseUtils.SaveDictionary(String, String)
+- uid: TTD.AutoCad.DataBaseUtils.SaveDictionary*
+  name: SaveDictionary
+  href: api/TTD.AutoCad.DataBaseUtils.html#TTD_AutoCad_DataBaseUtils_SaveDictionary_
+  commentId: Overload:TTD.AutoCad.DataBaseUtils.SaveDictionary
+  isSpec: "True"
+  fullName: TTD.AutoCad.DataBaseUtils.SaveDictionary
+  nameWithType: DataBaseUtils.SaveDictionary
+- uid: TTD.AutoCad.TransactionUtils
+  name: TransactionUtils
+  href: api/TTD.AutoCad.TransactionUtils.html
+  commentId: T:TTD.AutoCad.TransactionUtils
+  fullName: TTD.AutoCad.TransactionUtils
+  nameWithType: TransactionUtils
+- uid: TTD.AutoCad.TransactionUtils.TransactionStart(Document,System.Func{Autodesk.AutoCAD.DatabaseServices.Transaction,System.Boolean},System.Boolean)
+  name: TransactionStart(Document, Func<Autodesk.AutoCAD.DatabaseServices.Transaction, Boolean>, Boolean)
+  href: api/TTD.AutoCad.TransactionUtils.html#TTD_AutoCad_TransactionUtils_TransactionStart_Document_System_Func_Autodesk_AutoCAD_DatabaseServices_Transaction_System_Boolean__System_Boolean_
+  commentId: M:TTD.AutoCad.TransactionUtils.TransactionStart(Document,System.Func{Autodesk.AutoCAD.DatabaseServices.Transaction,System.Boolean},System.Boolean)
+  name.vb: TransactionStart(Document, Func(Of Autodesk.AutoCAD.DatabaseServices.Transaction, Boolean), Boolean)
+  fullName: TTD.AutoCad.TransactionUtils.TransactionStart(Document, System.Func<Autodesk.AutoCAD.DatabaseServices.Transaction, System.Boolean>, System.Boolean)
+  fullName.vb: TTD.AutoCad.TransactionUtils.TransactionStart(Document, System.Func(Of Autodesk.AutoCAD.DatabaseServices.Transaction, System.Boolean), System.Boolean)
+  nameWithType: TransactionUtils.TransactionStart(Document, Func<Autodesk.AutoCAD.DatabaseServices.Transaction, Boolean>, Boolean)
+  nameWithType.vb: TransactionUtils.TransactionStart(Document, Func(Of Autodesk.AutoCAD.DatabaseServices.Transaction, Boolean), Boolean)
+- uid: TTD.AutoCad.TransactionUtils.TransactionStart*
+  name: TransactionStart
+  href: api/TTD.AutoCad.TransactionUtils.html#TTD_AutoCad_TransactionUtils_TransactionStart_
+  commentId: Overload:TTD.AutoCad.TransactionUtils.TransactionStart
+  isSpec: "True"
+  fullName: TTD.AutoCad.TransactionUtils.TransactionStart
+  nameWithType: TransactionUtils.TransactionStart
+- uid: TTD.AutoCad.TransactionUtils.TransactionStartNoLockDocument(Document,System.Func{Autodesk.AutoCAD.DatabaseServices.Transaction,System.Boolean})
+  name: TransactionStartNoLockDocument(Document, Func<Autodesk.AutoCAD.DatabaseServices.Transaction, Boolean>)
+  href: api/TTD.AutoCad.TransactionUtils.html#TTD_AutoCad_TransactionUtils_TransactionStartNoLockDocument_Document_System_Func_Autodesk_AutoCAD_DatabaseServices_Transaction_System_Boolean__
+  commentId: M:TTD.AutoCad.TransactionUtils.TransactionStartNoLockDocument(Document,System.Func{Autodesk.AutoCAD.DatabaseServices.Transaction,System.Boolean})
+  name.vb: TransactionStartNoLockDocument(Document, Func(Of Autodesk.AutoCAD.DatabaseServices.Transaction, Boolean))
+  fullName: TTD.AutoCad.TransactionUtils.TransactionStartNoLockDocument(Document, System.Func<Autodesk.AutoCAD.DatabaseServices.Transaction, System.Boolean>)
+  fullName.vb: TTD.AutoCad.TransactionUtils.TransactionStartNoLockDocument(Document, System.Func(Of Autodesk.AutoCAD.DatabaseServices.Transaction, System.Boolean))
+  nameWithType: TransactionUtils.TransactionStartNoLockDocument(Document, Func<Autodesk.AutoCAD.DatabaseServices.Transaction, Boolean>)
+  nameWithType.vb: TransactionUtils.TransactionStartNoLockDocument(Document, Func(Of Autodesk.AutoCAD.DatabaseServices.Transaction, Boolean))
+- uid: TTD.AutoCad.TransactionUtils.TransactionStartNoLockDocument*
+  name: TransactionStartNoLockDocument
+  href: api/TTD.AutoCad.TransactionUtils.html#TTD_AutoCad_TransactionUtils_TransactionStartNoLockDocument_
+  commentId: Overload:TTD.AutoCad.TransactionUtils.TransactionStartNoLockDocument
+  isSpec: "True"
+  fullName: TTD.AutoCad.TransactionUtils.TransactionStartNoLockDocument
+  nameWithType: TransactionUtils.TransactionStartNoLockDocument
+- uid: TTD.AutoCad.WindowUtils
+  name: WindowUtils
+  href: api/TTD.AutoCad.WindowUtils.html
+  commentId: T:TTD.AutoCad.WindowUtils
+  fullName: TTD.AutoCad.WindowUtils
+  nameWithType: WindowUtils
+- uid: TTD.AutoCad.WindowUtils.OwnerAutocad(System.Windows.Window)
+  name: OwnerAutocad(Window)
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_OwnerAutocad_System_Windows_Window_
+  commentId: M:TTD.AutoCad.WindowUtils.OwnerAutocad(System.Windows.Window)
+  fullName: TTD.AutoCad.WindowUtils.OwnerAutocad(System.Windows.Window)
+  nameWithType: WindowUtils.OwnerAutocad(Window)
+- uid: TTD.AutoCad.WindowUtils.OwnerAutocad*
+  name: OwnerAutocad
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_OwnerAutocad_
+  commentId: Overload:TTD.AutoCad.WindowUtils.OwnerAutocad
+  isSpec: "True"
+  fullName: TTD.AutoCad.WindowUtils.OwnerAutocad
+  nameWithType: WindowUtils.OwnerAutocad
+- uid: TTD.AutoCad.WindowUtils.OwnerAutocad``1
+  name: OwnerAutocad<T>()
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_OwnerAutocad__1
+  commentId: M:TTD.AutoCad.WindowUtils.OwnerAutocad``1
+  name.vb: OwnerAutocad(Of T)()
+  fullName: TTD.AutoCad.WindowUtils.OwnerAutocad<T>()
+  fullName.vb: TTD.AutoCad.WindowUtils.OwnerAutocad(Of T)()
+  nameWithType: WindowUtils.OwnerAutocad<T>()
+  nameWithType.vb: WindowUtils.OwnerAutocad(Of T)()
+- uid: TTD.AutoCad.WindowUtils.SetStyleView(System.Windows.Window,System.String,System.String)
+  name: SetStyleView(Window, String, String)
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_SetStyleView_System_Windows_Window_System_String_System_String_
+  commentId: M:TTD.AutoCad.WindowUtils.SetStyleView(System.Windows.Window,System.String,System.String)
+  fullName: TTD.AutoCad.WindowUtils.SetStyleView(System.Windows.Window, System.String, System.String)
+  nameWithType: WindowUtils.SetStyleView(Window, String, String)
+- uid: TTD.AutoCad.WindowUtils.SetStyleView*
+  name: SetStyleView
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_SetStyleView_
+  commentId: Overload:TTD.AutoCad.WindowUtils.SetStyleView
+  isSpec: "True"
+  fullName: TTD.AutoCad.WindowUtils.SetStyleView
+  nameWithType: WindowUtils.SetStyleView
+- uid: TTD.AutoCad.WindowUtils.ShowDialogExtension(System.Windows.Window,System.String,System.String)
+  name: ShowDialogExtension(Window, String, String)
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_ShowDialogExtension_System_Windows_Window_System_String_System_String_
+  commentId: M:TTD.AutoCad.WindowUtils.ShowDialogExtension(System.Windows.Window,System.String,System.String)
+  fullName: TTD.AutoCad.WindowUtils.ShowDialogExtension(System.Windows.Window, System.String, System.String)
+  nameWithType: WindowUtils.ShowDialogExtension(Window, String, String)
+- uid: TTD.AutoCad.WindowUtils.ShowDialogExtension*
+  name: ShowDialogExtension
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_ShowDialogExtension_
+  commentId: Overload:TTD.AutoCad.WindowUtils.ShowDialogExtension
+  isSpec: "True"
+  fullName: TTD.AutoCad.WindowUtils.ShowDialogExtension
+  nameWithType: WindowUtils.ShowDialogExtension
+- uid: TTD.AutoCad.WindowUtils.ShowDialogExtension``1(System.String,System.String)
+  name: ShowDialogExtension<T>(String, String)
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_ShowDialogExtension__1_System_String_System_String_
+  commentId: M:TTD.AutoCad.WindowUtils.ShowDialogExtension``1(System.String,System.String)
+  name.vb: ShowDialogExtension(Of T)(String, String)
+  fullName: TTD.AutoCad.WindowUtils.ShowDialogExtension<T>(System.String, System.String)
+  fullName.vb: TTD.AutoCad.WindowUtils.ShowDialogExtension(Of T)(System.String, System.String)
+  nameWithType: WindowUtils.ShowDialogExtension<T>(String, String)
+  nameWithType.vb: WindowUtils.ShowDialogExtension(Of T)(String, String)
+- uid: TTD.AutoCad.WindowUtils.ShowExtension(System.Windows.Window,System.String,System.String,System.Boolean)
+  name: ShowExtension(Window, String, String, Boolean)
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_ShowExtension_System_Windows_Window_System_String_System_String_System_Boolean_
+  commentId: M:TTD.AutoCad.WindowUtils.ShowExtension(System.Windows.Window,System.String,System.String,System.Boolean)
+  fullName: TTD.AutoCad.WindowUtils.ShowExtension(System.Windows.Window, System.String, System.String, System.Boolean)
+  nameWithType: WindowUtils.ShowExtension(Window, String, String, Boolean)
+- uid: TTD.AutoCad.WindowUtils.ShowExtension*
+  name: ShowExtension
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_ShowExtension_
+  commentId: Overload:TTD.AutoCad.WindowUtils.ShowExtension
+  isSpec: "True"
+  fullName: TTD.AutoCad.WindowUtils.ShowExtension
+  nameWithType: WindowUtils.ShowExtension
+- uid: TTD.AutoCad.WindowUtils.ShowExtension``1(System.String,System.String,System.Boolean)
+  name: ShowExtension<T>(String, String, Boolean)
+  href: api/TTD.AutoCad.WindowUtils.html#TTD_AutoCad_WindowUtils_ShowExtension__1_System_String_System_String_System_Boolean_
+  commentId: M:TTD.AutoCad.WindowUtils.ShowExtension``1(System.String,System.String,System.Boolean)
+  name.vb: ShowExtension(Of T)(String, String, Boolean)
+  fullName: TTD.AutoCad.WindowUtils.ShowExtension<T>(System.String, System.String, System.Boolean)
+  fullName.vb: TTD.AutoCad.WindowUtils.ShowExtension(Of T)(System.String, System.String, System.Boolean)
+  nameWithType: WindowUtils.ShowExtension<T>(String, String, Boolean)
+  nameWithType.vb: WindowUtils.ShowExtension(Of T)(String, String, Boolean)
+- uid: TTD.Nw
+  name: TTD.Nw
+  href: api/TTD.Nw.html
+  commentId: N:TTD.Nw
+  fullName: TTD.Nw
+  nameWithType: TTD.Nw
+- uid: TTD.Nw.DataBaseUtils
+  name: DataBaseUtils
+  href: api/TTD.Nw.DataBaseUtils.html
+  commentId: T:TTD.Nw.DataBaseUtils
+  fullName: TTD.Nw.DataBaseUtils
+  nameWithType: DataBaseUtils
+- uid: TTD.Nw.DataBaseUtils.Read*
+  name: Read
+  href: api/TTD.Nw.DataBaseUtils.html#TTD_Nw_DataBaseUtils_Read_
+  commentId: Overload:TTD.Nw.DataBaseUtils.Read
+  isSpec: "True"
+  fullName: TTD.Nw.DataBaseUtils.Read
+  nameWithType: DataBaseUtils.Read
+- uid: TTD.Nw.DataBaseUtils.Read``1
+  name: Read<T>()
+  href: api/TTD.Nw.DataBaseUtils.html#TTD_Nw_DataBaseUtils_Read__1
+  commentId: M:TTD.Nw.DataBaseUtils.Read``1
+  name.vb: Read(Of T)()
+  fullName: TTD.Nw.DataBaseUtils.Read<T>()
+  fullName.vb: TTD.Nw.DataBaseUtils.Read(Of T)()
+  nameWithType: DataBaseUtils.Read<T>()
+  nameWithType.vb: DataBaseUtils.Read(Of T)()
+- uid: TTD.Nw.DataBaseUtils.Save*
+  name: Save
+  href: api/TTD.Nw.DataBaseUtils.html#TTD_Nw_DataBaseUtils_Save_
+  commentId: Overload:TTD.Nw.DataBaseUtils.Save
+  isSpec: "True"
+  fullName: TTD.Nw.DataBaseUtils.Save
+  nameWithType: DataBaseUtils.Save
+- uid: TTD.Nw.DataBaseUtils.Save``1(System.Collections.Generic.List{``0})
+  name: Save<T>(List<T>)
+  href: api/TTD.Nw.DataBaseUtils.html#TTD_Nw_DataBaseUtils_Save__1_System_Collections_Generic_List___0__
+  commentId: M:TTD.Nw.DataBaseUtils.Save``1(System.Collections.Generic.List{``0})
+  name.vb: Save(Of T)(List(Of T))
+  fullName: TTD.Nw.DataBaseUtils.Save<T>(System.Collections.Generic.List<T>)
+  fullName.vb: TTD.Nw.DataBaseUtils.Save(Of T)(System.Collections.Generic.List(Of T))
+  nameWithType: DataBaseUtils.Save<T>(List<T>)
+  nameWithType.vb: DataBaseUtils.Save(Of T)(List(Of T))
+- uid: TTD.Nw.DataBaseUtilsPropertyNotUsedAttribute
+  name: DataBaseUtilsPropertyNotUsedAttribute
+  href: api/TTD.Nw.DataBaseUtilsPropertyNotUsedAttribute.html
+  commentId: T:TTD.Nw.DataBaseUtilsPropertyNotUsedAttribute
+  fullName: TTD.Nw.DataBaseUtilsPropertyNotUsedAttribute
+  nameWithType: DataBaseUtilsPropertyNotUsedAttribute
+- uid: TTD.Nw.WindowUtils
+  name: WindowUtils
+  href: api/TTD.Nw.WindowUtils.html
+  commentId: T:TTD.Nw.WindowUtils
+  fullName: TTD.Nw.WindowUtils
+  nameWithType: WindowUtils
+- uid: TTD.Nw.WindowUtils.Owner(System.Windows.Window)
+  name: Owner(Window)
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_Owner_System_Windows_Window_
+  commentId: M:TTD.Nw.WindowUtils.Owner(System.Windows.Window)
+  fullName: TTD.Nw.WindowUtils.Owner(System.Windows.Window)
+  nameWithType: WindowUtils.Owner(Window)
+- uid: TTD.Nw.WindowUtils.Owner*
+  name: Owner
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_Owner_
+  commentId: Overload:TTD.Nw.WindowUtils.Owner
+  isSpec: "True"
+  fullName: TTD.Nw.WindowUtils.Owner
+  nameWithType: WindowUtils.Owner
+- uid: TTD.Nw.WindowUtils.Owner``1
+  name: Owner<T>()
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_Owner__1
+  commentId: M:TTD.Nw.WindowUtils.Owner``1
+  name.vb: Owner(Of T)()
+  fullName: TTD.Nw.WindowUtils.Owner<T>()
+  fullName.vb: TTD.Nw.WindowUtils.Owner(Of T)()
+  nameWithType: WindowUtils.Owner<T>()
+  nameWithType.vb: WindowUtils.Owner(Of T)()
+- uid: TTD.Nw.WindowUtils.SetStyleView(System.Windows.Window,System.String,System.String)
+  name: SetStyleView(Window, String, String)
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_SetStyleView_System_Windows_Window_System_String_System_String_
+  commentId: M:TTD.Nw.WindowUtils.SetStyleView(System.Windows.Window,System.String,System.String)
+  fullName: TTD.Nw.WindowUtils.SetStyleView(System.Windows.Window, System.String, System.String)
+  nameWithType: WindowUtils.SetStyleView(Window, String, String)
+- uid: TTD.Nw.WindowUtils.SetStyleView*
+  name: SetStyleView
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_SetStyleView_
+  commentId: Overload:TTD.Nw.WindowUtils.SetStyleView
+  isSpec: "True"
+  fullName: TTD.Nw.WindowUtils.SetStyleView
+  nameWithType: WindowUtils.SetStyleView
+- uid: TTD.Nw.WindowUtils.ShowDialogExtension(System.Windows.Window,System.String,System.String)
+  name: ShowDialogExtension(Window, String, String)
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_ShowDialogExtension_System_Windows_Window_System_String_System_String_
+  commentId: M:TTD.Nw.WindowUtils.ShowDialogExtension(System.Windows.Window,System.String,System.String)
+  fullName: TTD.Nw.WindowUtils.ShowDialogExtension(System.Windows.Window, System.String, System.String)
+  nameWithType: WindowUtils.ShowDialogExtension(Window, String, String)
+- uid: TTD.Nw.WindowUtils.ShowDialogExtension*
+  name: ShowDialogExtension
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_ShowDialogExtension_
+  commentId: Overload:TTD.Nw.WindowUtils.ShowDialogExtension
+  isSpec: "True"
+  fullName: TTD.Nw.WindowUtils.ShowDialogExtension
+  nameWithType: WindowUtils.ShowDialogExtension
+- uid: TTD.Nw.WindowUtils.ShowDialogExtension``1(System.String,System.String)
+  name: ShowDialogExtension<T>(String, String)
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_ShowDialogExtension__1_System_String_System_String_
+  commentId: M:TTD.Nw.WindowUtils.ShowDialogExtension``1(System.String,System.String)
+  name.vb: ShowDialogExtension(Of T)(String, String)
+  fullName: TTD.Nw.WindowUtils.ShowDialogExtension<T>(System.String, System.String)
+  fullName.vb: TTD.Nw.WindowUtils.ShowDialogExtension(Of T)(System.String, System.String)
+  nameWithType: WindowUtils.ShowDialogExtension<T>(String, String)
+  nameWithType.vb: WindowUtils.ShowDialogExtension(Of T)(String, String)
+- uid: TTD.Nw.WindowUtils.ShowExtension(System.Windows.Window,System.String,System.String,System.Boolean)
+  name: ShowExtension(Window, String, String, Boolean)
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_ShowExtension_System_Windows_Window_System_String_System_String_System_Boolean_
+  commentId: M:TTD.Nw.WindowUtils.ShowExtension(System.Windows.Window,System.String,System.String,System.Boolean)
+  fullName: TTD.Nw.WindowUtils.ShowExtension(System.Windows.Window, System.String, System.String, System.Boolean)
+  nameWithType: WindowUtils.ShowExtension(Window, String, String, Boolean)
+- uid: TTD.Nw.WindowUtils.ShowExtension*
+  name: ShowExtension
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_ShowExtension_
+  commentId: Overload:TTD.Nw.WindowUtils.ShowExtension
+  isSpec: "True"
+  fullName: TTD.Nw.WindowUtils.ShowExtension
+  nameWithType: WindowUtils.ShowExtension
+- uid: TTD.Nw.WindowUtils.ShowExtension``1(System.String,System.String,System.Boolean)
+  name: ShowExtension<T>(String, String, Boolean)
+  href: api/TTD.Nw.WindowUtils.html#TTD_Nw_WindowUtils_ShowExtension__1_System_String_System_String_System_Boolean_
+  commentId: M:TTD.Nw.WindowUtils.ShowExtension``1(System.String,System.String,System.Boolean)
+  name.vb: ShowExtension(Of T)(String, String, Boolean)
+  fullName: TTD.Nw.WindowUtils.ShowExtension<T>(System.String, System.String, System.Boolean)
+  fullName.vb: TTD.Nw.WindowUtils.ShowExtension(Of T)(System.String, System.String, System.Boolean)
+  nameWithType: WindowUtils.ShowExtension<T>(String, String, Boolean)
+  nameWithType.vb: WindowUtils.ShowExtension(Of T)(String, String, Boolean)
+- uid: TTD.Revit
+  name: TTD.Revit
+  href: api/TTD.Revit.html
+  commentId: N:TTD.Revit
+  fullName: TTD.Revit
+  nameWithType: TTD.Revit
+- uid: TTD.Revit.ConvertUnits
+  name: ConvertUnits
+  href: api/TTD.Revit.ConvertUnits.html
+  commentId: T:TTD.Revit.ConvertUnits
+  fullName: TTD.Revit.ConvertUnits
+  nameWithType: ConvertUnits
+- uid: TTD.Revit.ConvertUnits.CentimetersToFeet(System.Double)
+  name: CentimetersToFeet(Double)
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_CentimetersToFeet_System_Double_
+  commentId: M:TTD.Revit.ConvertUnits.CentimetersToFeet(System.Double)
+  fullName: TTD.Revit.ConvertUnits.CentimetersToFeet(System.Double)
+  nameWithType: ConvertUnits.CentimetersToFeet(Double)
+- uid: TTD.Revit.ConvertUnits.CentimetersToFeet*
+  name: CentimetersToFeet
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_CentimetersToFeet_
+  commentId: Overload:TTD.Revit.ConvertUnits.CentimetersToFeet
+  isSpec: "True"
+  fullName: TTD.Revit.ConvertUnits.CentimetersToFeet
+  nameWithType: ConvertUnits.CentimetersToFeet
+- uid: TTD.Revit.ConvertUnits.DecimetersToFeet(System.Double)
+  name: DecimetersToFeet(Double)
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_DecimetersToFeet_System_Double_
+  commentId: M:TTD.Revit.ConvertUnits.DecimetersToFeet(System.Double)
+  fullName: TTD.Revit.ConvertUnits.DecimetersToFeet(System.Double)
+  nameWithType: ConvertUnits.DecimetersToFeet(Double)
+- uid: TTD.Revit.ConvertUnits.DecimetersToFeet*
+  name: DecimetersToFeet
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_DecimetersToFeet_
+  commentId: Overload:TTD.Revit.ConvertUnits.DecimetersToFeet
+  isSpec: "True"
+  fullName: TTD.Revit.ConvertUnits.DecimetersToFeet
+  nameWithType: ConvertUnits.DecimetersToFeet
+- uid: TTD.Revit.ConvertUnits.FeetToCentimeters(System.Double)
+  name: FeetToCentimeters(Double)
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_FeetToCentimeters_System_Double_
+  commentId: M:TTD.Revit.ConvertUnits.FeetToCentimeters(System.Double)
+  fullName: TTD.Revit.ConvertUnits.FeetToCentimeters(System.Double)
+  nameWithType: ConvertUnits.FeetToCentimeters(Double)
+- uid: TTD.Revit.ConvertUnits.FeetToCentimeters*
+  name: FeetToCentimeters
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_FeetToCentimeters_
+  commentId: Overload:TTD.Revit.ConvertUnits.FeetToCentimeters
+  isSpec: "True"
+  fullName: TTD.Revit.ConvertUnits.FeetToCentimeters
+  nameWithType: ConvertUnits.FeetToCentimeters
+- uid: TTD.Revit.ConvertUnits.FeetToDecimeters(System.Double)
+  name: FeetToDecimeters(Double)
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_FeetToDecimeters_System_Double_
+  commentId: M:TTD.Revit.ConvertUnits.FeetToDecimeters(System.Double)
+  fullName: TTD.Revit.ConvertUnits.FeetToDecimeters(System.Double)
+  nameWithType: ConvertUnits.FeetToDecimeters(Double)
+- uid: TTD.Revit.ConvertUnits.FeetToDecimeters*
+  name: FeetToDecimeters
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_FeetToDecimeters_
+  commentId: Overload:TTD.Revit.ConvertUnits.FeetToDecimeters
+  isSpec: "True"
+  fullName: TTD.Revit.ConvertUnits.FeetToDecimeters
+  nameWithType: ConvertUnits.FeetToDecimeters
+- uid: TTD.Revit.ConvertUnits.FeetToMeters(System.Double)
+  name: FeetToMeters(Double)
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_FeetToMeters_System_Double_
+  commentId: M:TTD.Revit.ConvertUnits.FeetToMeters(System.Double)
+  fullName: TTD.Revit.ConvertUnits.FeetToMeters(System.Double)
+  nameWithType: ConvertUnits.FeetToMeters(Double)
+- uid: TTD.Revit.ConvertUnits.FeetToMeters*
+  name: FeetToMeters
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_FeetToMeters_
+  commentId: Overload:TTD.Revit.ConvertUnits.FeetToMeters
+  isSpec: "True"
+  fullName: TTD.Revit.ConvertUnits.FeetToMeters
+  nameWithType: ConvertUnits.FeetToMeters
+- uid: TTD.Revit.ConvertUnits.FeetToMillimeters(System.Double)
+  name: FeetToMillimeters(Double)
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_FeetToMillimeters_System_Double_
+  commentId: M:TTD.Revit.ConvertUnits.FeetToMillimeters(System.Double)
+  fullName: TTD.Revit.ConvertUnits.FeetToMillimeters(System.Double)
+  nameWithType: ConvertUnits.FeetToMillimeters(Double)
+- uid: TTD.Revit.ConvertUnits.FeetToMillimeters*
+  name: FeetToMillimeters
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_FeetToMillimeters_
+  commentId: Overload:TTD.Revit.ConvertUnits.FeetToMillimeters
+  isSpec: "True"
+  fullName: TTD.Revit.ConvertUnits.FeetToMillimeters
+  nameWithType: ConvertUnits.FeetToMillimeters
+- uid: TTD.Revit.ConvertUnits.MetersToFeet(System.Double)
+  name: MetersToFeet(Double)
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_MetersToFeet_System_Double_
+  commentId: M:TTD.Revit.ConvertUnits.MetersToFeet(System.Double)
+  fullName: TTD.Revit.ConvertUnits.MetersToFeet(System.Double)
+  nameWithType: ConvertUnits.MetersToFeet(Double)
+- uid: TTD.Revit.ConvertUnits.MetersToFeet*
+  name: MetersToFeet
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_MetersToFeet_
+  commentId: Overload:TTD.Revit.ConvertUnits.MetersToFeet
+  isSpec: "True"
+  fullName: TTD.Revit.ConvertUnits.MetersToFeet
+  nameWithType: ConvertUnits.MetersToFeet
+- uid: TTD.Revit.ConvertUnits.MillimetersToFeet(System.Double)
+  name: MillimetersToFeet(Double)
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_MillimetersToFeet_System_Double_
+  commentId: M:TTD.Revit.ConvertUnits.MillimetersToFeet(System.Double)
+  fullName: TTD.Revit.ConvertUnits.MillimetersToFeet(System.Double)
+  nameWithType: ConvertUnits.MillimetersToFeet(Double)
+- uid: TTD.Revit.ConvertUnits.MillimetersToFeet*
+  name: MillimetersToFeet
+  href: api/TTD.Revit.ConvertUnits.html#TTD_Revit_ConvertUnits_MillimetersToFeet_
+  commentId: Overload:TTD.Revit.ConvertUnits.MillimetersToFeet
+  isSpec: "True"
+  fullName: TTD.Revit.ConvertUnits.MillimetersToFeet
+  nameWithType: ConvertUnits.MillimetersToFeet
+- uid: TTD.Revit.ExternalEventUtils
+  name: ExternalEventUtils
+  href: api/TTD.Revit.ExternalEventUtils.html
+  commentId: T:TTD.Revit.ExternalEventUtils
+  fullName: TTD.Revit.ExternalEventUtils
+  nameWithType: ExternalEventUtils
+- uid: TTD.Revit.ExternalEventUtils.Init
+  name: Init()
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Init
+  commentId: M:TTD.Revit.ExternalEventUtils.Init
+  fullName: TTD.Revit.ExternalEventUtils.Init()
+  nameWithType: ExternalEventUtils.Init()
+- uid: TTD.Revit.ExternalEventUtils.Init*
+  name: Init
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Init_
+  commentId: Overload:TTD.Revit.ExternalEventUtils.Init
+  isSpec: "True"
+  fullName: TTD.Revit.ExternalEventUtils.Init
+  nameWithType: ExternalEventUtils.Init
+- uid: TTD.Revit.ExternalEventUtils.Raise(System.String,System.Action{Document},System.Boolean,TTD.Revit.TransactionStatus)
+  name: Raise(String, Action<Document>, Boolean, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Raise_System_String_System_Action_Document__System_Boolean_TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.Raise(System.String,System.Action{Document},System.Boolean,TTD.Revit.TransactionStatus)
+  name.vb: Raise(String, Action(Of Document), Boolean, TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Action<Document>, System.Boolean, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Action(Of Document), System.Boolean, TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.Raise(String, Action<Document>, Boolean, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.Raise(String, Action(Of Document), Boolean, TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.Raise(System.String,System.Action{UIApplication},System.Boolean,TTD.Revit.TransactionStatus)
+  name: Raise(String, Action<UIApplication>, Boolean, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Raise_System_String_System_Action_UIApplication__System_Boolean_TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.Raise(System.String,System.Action{UIApplication},System.Boolean,TTD.Revit.TransactionStatus)
+  name.vb: Raise(String, Action(Of UIApplication), Boolean, TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Action<UIApplication>, System.Boolean, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Action(Of UIApplication), System.Boolean, TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.Raise(String, Action<UIApplication>, Boolean, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.Raise(String, Action(Of UIApplication), Boolean, TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.Raise(System.String,System.Action{UIDocument},System.Boolean,TTD.Revit.TransactionStatus)
+  name: Raise(String, Action<UIDocument>, Boolean, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Raise_System_String_System_Action_UIDocument__System_Boolean_TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.Raise(System.String,System.Action{UIDocument},System.Boolean,TTD.Revit.TransactionStatus)
+  name.vb: Raise(String, Action(Of UIDocument), Boolean, TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Action<UIDocument>, System.Boolean, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Action(Of UIDocument), System.Boolean, TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.Raise(String, Action<UIDocument>, Boolean, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.Raise(String, Action(Of UIDocument), Boolean, TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.Raise(System.String,System.Func{Document,TTD.Revit.TransactionStatus},System.Boolean)
+  name: Raise(String, Func<Document, TransactionStatus>, Boolean)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Raise_System_String_System_Func_Document_TTD_Revit_TransactionStatus__System_Boolean_
+  commentId: M:TTD.Revit.ExternalEventUtils.Raise(System.String,System.Func{Document,TTD.Revit.TransactionStatus},System.Boolean)
+  name.vb: Raise(String, Func(Of Document, TransactionStatus), Boolean)
+  fullName: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Func<Document, TTD.Revit.TransactionStatus>, System.Boolean)
+  fullName.vb: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Func(Of Document, TTD.Revit.TransactionStatus), System.Boolean)
+  nameWithType: ExternalEventUtils.Raise(String, Func<Document, TransactionStatus>, Boolean)
+  nameWithType.vb: ExternalEventUtils.Raise(String, Func(Of Document, TransactionStatus), Boolean)
+- uid: TTD.Revit.ExternalEventUtils.Raise(System.String,System.Func{UIApplication,TTD.Revit.TransactionStatus},System.Boolean)
+  name: Raise(String, Func<UIApplication, TransactionStatus>, Boolean)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Raise_System_String_System_Func_UIApplication_TTD_Revit_TransactionStatus__System_Boolean_
+  commentId: M:TTD.Revit.ExternalEventUtils.Raise(System.String,System.Func{UIApplication,TTD.Revit.TransactionStatus},System.Boolean)
+  name.vb: Raise(String, Func(Of UIApplication, TransactionStatus), Boolean)
+  fullName: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Func<UIApplication, TTD.Revit.TransactionStatus>, System.Boolean)
+  fullName.vb: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Func(Of UIApplication, TTD.Revit.TransactionStatus), System.Boolean)
+  nameWithType: ExternalEventUtils.Raise(String, Func<UIApplication, TransactionStatus>, Boolean)
+  nameWithType.vb: ExternalEventUtils.Raise(String, Func(Of UIApplication, TransactionStatus), Boolean)
+- uid: TTD.Revit.ExternalEventUtils.Raise(System.String,System.Func{UIDocument,TTD.Revit.TransactionStatus},System.Boolean)
+  name: Raise(String, Func<UIDocument, TransactionStatus>, Boolean)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Raise_System_String_System_Func_UIDocument_TTD_Revit_TransactionStatus__System_Boolean_
+  commentId: M:TTD.Revit.ExternalEventUtils.Raise(System.String,System.Func{UIDocument,TTD.Revit.TransactionStatus},System.Boolean)
+  name.vb: Raise(String, Func(Of UIDocument, TransactionStatus), Boolean)
+  fullName: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Func<UIDocument, TTD.Revit.TransactionStatus>, System.Boolean)
+  fullName.vb: TTD.Revit.ExternalEventUtils.Raise(System.String, System.Func(Of UIDocument, TTD.Revit.TransactionStatus), System.Boolean)
+  nameWithType: ExternalEventUtils.Raise(String, Func<UIDocument, TransactionStatus>, Boolean)
+  nameWithType.vb: ExternalEventUtils.Raise(String, Func(Of UIDocument, TransactionStatus), Boolean)
+- uid: TTD.Revit.ExternalEventUtils.Raise*
+  name: Raise
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_Raise_
+  commentId: Overload:TTD.Revit.ExternalEventUtils.Raise
+  isSpec: "True"
+  fullName: TTD.Revit.ExternalEventUtils.Raise
+  nameWithType: ExternalEventUtils.Raise
+- uid: TTD.Revit.ExternalEventUtils.TransactionGroupStart(Document,System.String,System.Action{Document},TTD.Revit.TransactionStatus)
+  name: TransactionGroupStart(Document, String, Action<Document>, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionGroupStart_Document_System_String_System_Action_Document__TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionGroupStart(Document,System.String,System.Action{Document},TTD.Revit.TransactionStatus)
+  name.vb: TransactionGroupStart(Document, String, Action(Of Document), TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.TransactionGroupStart(Document, System.String, System.Action<Document>, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionGroupStart(Document, System.String, System.Action(Of Document), TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.TransactionGroupStart(Document, String, Action<Document>, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.TransactionGroupStart(Document, String, Action(Of Document), TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.TransactionGroupStart(Document,System.String,System.Func{Document,TTD.Revit.TransactionStatus})
+  name: TransactionGroupStart(Document, String, Func<Document, TransactionStatus>)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionGroupStart_Document_System_String_System_Func_Document_TTD_Revit_TransactionStatus__
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionGroupStart(Document,System.String,System.Func{Document,TTD.Revit.TransactionStatus})
+  name.vb: TransactionGroupStart(Document, String, Func(Of Document, TransactionStatus))
+  fullName: TTD.Revit.ExternalEventUtils.TransactionGroupStart(Document, System.String, System.Func<Document, TTD.Revit.TransactionStatus>)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionGroupStart(Document, System.String, System.Func(Of Document, TTD.Revit.TransactionStatus))
+  nameWithType: ExternalEventUtils.TransactionGroupStart(Document, String, Func<Document, TransactionStatus>)
+  nameWithType.vb: ExternalEventUtils.TransactionGroupStart(Document, String, Func(Of Document, TransactionStatus))
+- uid: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIApplication,System.String,System.Action{UIApplication},TTD.Revit.TransactionStatus)
+  name: TransactionGroupStart(UIApplication, String, Action<UIApplication>, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionGroupStart_UIApplication_System_String_System_Action_UIApplication__TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIApplication,System.String,System.Action{UIApplication},TTD.Revit.TransactionStatus)
+  name.vb: TransactionGroupStart(UIApplication, String, Action(Of UIApplication), TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIApplication, System.String, System.Action<UIApplication>, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIApplication, System.String, System.Action(Of UIApplication), TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.TransactionGroupStart(UIApplication, String, Action<UIApplication>, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.TransactionGroupStart(UIApplication, String, Action(Of UIApplication), TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIApplication,System.String,System.Func{UIApplication,TTD.Revit.TransactionStatus})
+  name: TransactionGroupStart(UIApplication, String, Func<UIApplication, TransactionStatus>)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionGroupStart_UIApplication_System_String_System_Func_UIApplication_TTD_Revit_TransactionStatus__
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIApplication,System.String,System.Func{UIApplication,TTD.Revit.TransactionStatus})
+  name.vb: TransactionGroupStart(UIApplication, String, Func(Of UIApplication, TransactionStatus))
+  fullName: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIApplication, System.String, System.Func<UIApplication, TTD.Revit.TransactionStatus>)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIApplication, System.String, System.Func(Of UIApplication, TTD.Revit.TransactionStatus))
+  nameWithType: ExternalEventUtils.TransactionGroupStart(UIApplication, String, Func<UIApplication, TransactionStatus>)
+  nameWithType.vb: ExternalEventUtils.TransactionGroupStart(UIApplication, String, Func(Of UIApplication, TransactionStatus))
+- uid: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIDocument,System.String,System.Action{UIDocument},TTD.Revit.TransactionStatus)
+  name: TransactionGroupStart(UIDocument, String, Action<UIDocument>, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionGroupStart_UIDocument_System_String_System_Action_UIDocument__TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIDocument,System.String,System.Action{UIDocument},TTD.Revit.TransactionStatus)
+  name.vb: TransactionGroupStart(UIDocument, String, Action(Of UIDocument), TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIDocument, System.String, System.Action<UIDocument>, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIDocument, System.String, System.Action(Of UIDocument), TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.TransactionGroupStart(UIDocument, String, Action<UIDocument>, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.TransactionGroupStart(UIDocument, String, Action(Of UIDocument), TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIDocument,System.String,System.Func{UIDocument,TTD.Revit.TransactionStatus})
+  name: TransactionGroupStart(UIDocument, String, Func<UIDocument, TransactionStatus>)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionGroupStart_UIDocument_System_String_System_Func_UIDocument_TTD_Revit_TransactionStatus__
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIDocument,System.String,System.Func{UIDocument,TTD.Revit.TransactionStatus})
+  name.vb: TransactionGroupStart(UIDocument, String, Func(Of UIDocument, TransactionStatus))
+  fullName: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIDocument, System.String, System.Func<UIDocument, TTD.Revit.TransactionStatus>)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionGroupStart(UIDocument, System.String, System.Func(Of UIDocument, TTD.Revit.TransactionStatus))
+  nameWithType: ExternalEventUtils.TransactionGroupStart(UIDocument, String, Func<UIDocument, TransactionStatus>)
+  nameWithType.vb: ExternalEventUtils.TransactionGroupStart(UIDocument, String, Func(Of UIDocument, TransactionStatus))
+- uid: TTD.Revit.ExternalEventUtils.TransactionGroupStart*
+  name: TransactionGroupStart
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionGroupStart_
+  commentId: Overload:TTD.Revit.ExternalEventUtils.TransactionGroupStart
+  isSpec: "True"
+  fullName: TTD.Revit.ExternalEventUtils.TransactionGroupStart
+  nameWithType: ExternalEventUtils.TransactionGroupStart
+- uid: TTD.Revit.ExternalEventUtils.TransactionStart(Document,System.String,System.Action{Document},TTD.Revit.TransactionStatus)
+  name: TransactionStart(Document, String, Action<Document>, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionStart_Document_System_String_System_Action_Document__TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionStart(Document,System.String,System.Action{Document},TTD.Revit.TransactionStatus)
+  name.vb: TransactionStart(Document, String, Action(Of Document), TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.TransactionStart(Document, System.String, System.Action<Document>, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionStart(Document, System.String, System.Action(Of Document), TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.TransactionStart(Document, String, Action<Document>, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.TransactionStart(Document, String, Action(Of Document), TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.TransactionStart(Document,System.String,System.Func{Document,TTD.Revit.TransactionStatus})
+  name: TransactionStart(Document, String, Func<Document, TransactionStatus>)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionStart_Document_System_String_System_Func_Document_TTD_Revit_TransactionStatus__
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionStart(Document,System.String,System.Func{Document,TTD.Revit.TransactionStatus})
+  name.vb: TransactionStart(Document, String, Func(Of Document, TransactionStatus))
+  fullName: TTD.Revit.ExternalEventUtils.TransactionStart(Document, System.String, System.Func<Document, TTD.Revit.TransactionStatus>)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionStart(Document, System.String, System.Func(Of Document, TTD.Revit.TransactionStatus))
+  nameWithType: ExternalEventUtils.TransactionStart(Document, String, Func<Document, TransactionStatus>)
+  nameWithType.vb: ExternalEventUtils.TransactionStart(Document, String, Func(Of Document, TransactionStatus))
+- uid: TTD.Revit.ExternalEventUtils.TransactionStart(UIApplication,System.String,System.Action{UIApplication},TTD.Revit.TransactionStatus)
+  name: TransactionStart(UIApplication, String, Action<UIApplication>, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionStart_UIApplication_System_String_System_Action_UIApplication__TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionStart(UIApplication,System.String,System.Action{UIApplication},TTD.Revit.TransactionStatus)
+  name.vb: TransactionStart(UIApplication, String, Action(Of UIApplication), TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.TransactionStart(UIApplication, System.String, System.Action<UIApplication>, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionStart(UIApplication, System.String, System.Action(Of UIApplication), TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.TransactionStart(UIApplication, String, Action<UIApplication>, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.TransactionStart(UIApplication, String, Action(Of UIApplication), TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.TransactionStart(UIApplication,System.String,System.Func{UIApplication,TTD.Revit.TransactionStatus})
+  name: TransactionStart(UIApplication, String, Func<UIApplication, TransactionStatus>)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionStart_UIApplication_System_String_System_Func_UIApplication_TTD_Revit_TransactionStatus__
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionStart(UIApplication,System.String,System.Func{UIApplication,TTD.Revit.TransactionStatus})
+  name.vb: TransactionStart(UIApplication, String, Func(Of UIApplication, TransactionStatus))
+  fullName: TTD.Revit.ExternalEventUtils.TransactionStart(UIApplication, System.String, System.Func<UIApplication, TTD.Revit.TransactionStatus>)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionStart(UIApplication, System.String, System.Func(Of UIApplication, TTD.Revit.TransactionStatus))
+  nameWithType: ExternalEventUtils.TransactionStart(UIApplication, String, Func<UIApplication, TransactionStatus>)
+  nameWithType.vb: ExternalEventUtils.TransactionStart(UIApplication, String, Func(Of UIApplication, TransactionStatus))
+- uid: TTD.Revit.ExternalEventUtils.TransactionStart(UIDocument,System.String,System.Action{UIDocument},TTD.Revit.TransactionStatus)
+  name: TransactionStart(UIDocument, String, Action<UIDocument>, TransactionStatus)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionStart_UIDocument_System_String_System_Action_UIDocument__TTD_Revit_TransactionStatus_
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionStart(UIDocument,System.String,System.Action{UIDocument},TTD.Revit.TransactionStatus)
+  name.vb: TransactionStart(UIDocument, String, Action(Of UIDocument), TransactionStatus)
+  fullName: TTD.Revit.ExternalEventUtils.TransactionStart(UIDocument, System.String, System.Action<UIDocument>, TTD.Revit.TransactionStatus)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionStart(UIDocument, System.String, System.Action(Of UIDocument), TTD.Revit.TransactionStatus)
+  nameWithType: ExternalEventUtils.TransactionStart(UIDocument, String, Action<UIDocument>, TransactionStatus)
+  nameWithType.vb: ExternalEventUtils.TransactionStart(UIDocument, String, Action(Of UIDocument), TransactionStatus)
+- uid: TTD.Revit.ExternalEventUtils.TransactionStart(UIDocument,System.String,System.Func{UIDocument,TTD.Revit.TransactionStatus})
+  name: TransactionStart(UIDocument, String, Func<UIDocument, TransactionStatus>)
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionStart_UIDocument_System_String_System_Func_UIDocument_TTD_Revit_TransactionStatus__
+  commentId: M:TTD.Revit.ExternalEventUtils.TransactionStart(UIDocument,System.String,System.Func{UIDocument,TTD.Revit.TransactionStatus})
+  name.vb: TransactionStart(UIDocument, String, Func(Of UIDocument, TransactionStatus))
+  fullName: TTD.Revit.ExternalEventUtils.TransactionStart(UIDocument, System.String, System.Func<UIDocument, TTD.Revit.TransactionStatus>)
+  fullName.vb: TTD.Revit.ExternalEventUtils.TransactionStart(UIDocument, System.String, System.Func(Of UIDocument, TTD.Revit.TransactionStatus))
+  nameWithType: ExternalEventUtils.TransactionStart(UIDocument, String, Func<UIDocument, TransactionStatus>)
+  nameWithType.vb: ExternalEventUtils.TransactionStart(UIDocument, String, Func(Of UIDocument, TransactionStatus))
+- uid: TTD.Revit.ExternalEventUtils.TransactionStart*
+  name: TransactionStart
+  href: api/TTD.Revit.ExternalEventUtils.html#TTD_Revit_ExternalEventUtils_TransactionStart_
+  commentId: Overload:TTD.Revit.ExternalEventUtils.TransactionStart
+  isSpec: "True"
+  fullName: TTD.Revit.ExternalEventUtils.TransactionStart
+  nameWithType: ExternalEventUtils.TransactionStart
+- uid: TTD.Revit.TransactionStatus
+  name: TransactionStatus
+  href: api/TTD.Revit.TransactionStatus.html
+  commentId: T:TTD.Revit.TransactionStatus
+  fullName: TTD.Revit.TransactionStatus
+  nameWithType: TransactionStatus
+- uid: TTD.Revit.TransactionStatus.Commit
+  name: Commit
+  href: api/TTD.Revit.TransactionStatus.html#TTD_Revit_TransactionStatus_Commit
+  commentId: F:TTD.Revit.TransactionStatus.Commit
+  fullName: TTD.Revit.TransactionStatus.Commit
+  nameWithType: TransactionStatus.Commit
+- uid: TTD.Revit.TransactionStatus.RollBack
+  name: RollBack
+  href: api/TTD.Revit.TransactionStatus.html#TTD_Revit_TransactionStatus_RollBack
+  commentId: F:TTD.Revit.TransactionStatus.RollBack
+  fullName: TTD.Revit.TransactionStatus.RollBack
+  nameWithType: TransactionStatus.RollBack
+- uid: TTD.Revit.WindowUtils
+  name: WindowUtils
+  href: api/TTD.Revit.WindowUtils.html
+  commentId: T:TTD.Revit.WindowUtils
+  fullName: TTD.Revit.WindowUtils
+  nameWithType: WindowUtils
+- uid: TTD.Revit.WindowUtils.OwnerRevit(System.Windows.Window,UIApplication)
+  name: OwnerRevit(Window, UIApplication)
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_OwnerRevit_System_Windows_Window_UIApplication_
+  commentId: M:TTD.Revit.WindowUtils.OwnerRevit(System.Windows.Window,UIApplication)
+  fullName: TTD.Revit.WindowUtils.OwnerRevit(System.Windows.Window, UIApplication)
+  nameWithType: WindowUtils.OwnerRevit(Window, UIApplication)
+- uid: TTD.Revit.WindowUtils.OwnerRevit*
+  name: OwnerRevit
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_OwnerRevit_
+  commentId: Overload:TTD.Revit.WindowUtils.OwnerRevit
+  isSpec: "True"
+  fullName: TTD.Revit.WindowUtils.OwnerRevit
+  nameWithType: WindowUtils.OwnerRevit
+- uid: TTD.Revit.WindowUtils.OwnerRevit``1(UIApplication)
+  name: OwnerRevit<T>(UIApplication)
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_OwnerRevit__1_UIApplication_
+  commentId: M:TTD.Revit.WindowUtils.OwnerRevit``1(UIApplication)
+  name.vb: OwnerRevit(Of T)(UIApplication)
+  fullName: TTD.Revit.WindowUtils.OwnerRevit<T>(UIApplication)
+  fullName.vb: TTD.Revit.WindowUtils.OwnerRevit(Of T)(UIApplication)
+  nameWithType: WindowUtils.OwnerRevit<T>(UIApplication)
+  nameWithType.vb: WindowUtils.OwnerRevit(Of T)(UIApplication)
+- uid: TTD.Revit.WindowUtils.ShowDialogExtension(System.Windows.Window,System.String,System.String)
+  name: ShowDialogExtension(Window, String, String)
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_ShowDialogExtension_System_Windows_Window_System_String_System_String_
+  commentId: M:TTD.Revit.WindowUtils.ShowDialogExtension(System.Windows.Window,System.String,System.String)
+  fullName: TTD.Revit.WindowUtils.ShowDialogExtension(System.Windows.Window, System.String, System.String)
+  nameWithType: WindowUtils.ShowDialogExtension(Window, String, String)
+- uid: TTD.Revit.WindowUtils.ShowDialogExtension*
+  name: ShowDialogExtension
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_ShowDialogExtension_
+  commentId: Overload:TTD.Revit.WindowUtils.ShowDialogExtension
+  isSpec: "True"
+  fullName: TTD.Revit.WindowUtils.ShowDialogExtension
+  nameWithType: WindowUtils.ShowDialogExtension
+- uid: TTD.Revit.WindowUtils.ShowDialogExtension``1(System.String,System.String)
+  name: ShowDialogExtension<T>(String, String)
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_ShowDialogExtension__1_System_String_System_String_
+  commentId: M:TTD.Revit.WindowUtils.ShowDialogExtension``1(System.String,System.String)
+  name.vb: ShowDialogExtension(Of T)(String, String)
+  fullName: TTD.Revit.WindowUtils.ShowDialogExtension<T>(System.String, System.String)
+  fullName.vb: TTD.Revit.WindowUtils.ShowDialogExtension(Of T)(System.String, System.String)
+  nameWithType: WindowUtils.ShowDialogExtension<T>(String, String)
+  nameWithType.vb: WindowUtils.ShowDialogExtension(Of T)(String, String)
+- uid: TTD.Revit.WindowUtils.ShowExtension(System.Windows.Window,UIApplication,System.String,System.String,System.Boolean)
+  name: ShowExtension(Window, UIApplication, String, String, Boolean)
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_ShowExtension_System_Windows_Window_UIApplication_System_String_System_String_System_Boolean_
+  commentId: M:TTD.Revit.WindowUtils.ShowExtension(System.Windows.Window,UIApplication,System.String,System.String,System.Boolean)
+  fullName: TTD.Revit.WindowUtils.ShowExtension(System.Windows.Window, UIApplication, System.String, System.String, System.Boolean)
+  nameWithType: WindowUtils.ShowExtension(Window, UIApplication, String, String, Boolean)
+- uid: TTD.Revit.WindowUtils.ShowExtension*
+  name: ShowExtension
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_ShowExtension_
+  commentId: Overload:TTD.Revit.WindowUtils.ShowExtension
+  isSpec: "True"
+  fullName: TTD.Revit.WindowUtils.ShowExtension
+  nameWithType: WindowUtils.ShowExtension
+- uid: TTD.Revit.WindowUtils.ShowExtension``1(Autodesk.Revit.UI.UIApplication,System.String,System.String,System.Boolean)
+  name: ShowExtension<T>(Autodesk.Revit.UI.UIApplication, String, String, Boolean)
+  href: api/TTD.Revit.WindowUtils.html#TTD_Revit_WindowUtils_ShowExtension__1_Autodesk_Revit_UI_UIApplication_System_String_System_String_System_Boolean_
+  commentId: M:TTD.Revit.WindowUtils.ShowExtension``1(Autodesk.Revit.UI.UIApplication,System.String,System.String,System.Boolean)
+  name.vb: ShowExtension(Of T)(Autodesk.Revit.UI.UIApplication, String, String, Boolean)
+  fullName: TTD.Revit.WindowUtils.ShowExtension<T>(Autodesk.Revit.UI.UIApplication, System.String, System.String, System.Boolean)
+  fullName.vb: TTD.Revit.WindowUtils.ShowExtension(Of T)(Autodesk.Revit.UI.UIApplication, System.String, System.String, System.Boolean)
+  nameWithType: WindowUtils.ShowExtension<T>(Autodesk.Revit.UI.UIApplication, String, String, Boolean)
+  nameWithType.vb: WindowUtils.ShowExtension(Of T)(Autodesk.Revit.UI.UIApplication, String, String, Boolean)
